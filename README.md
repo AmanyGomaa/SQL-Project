@@ -15,5 +15,5 @@ the  main  questions  they’d  like  to  answer:
 ● Where  are  customers  with  a  high  lifetime  value  based?   
 ● Do  sales  figures  vary  between  geographic  regions?   
 # the dataset
- the dataset contains  information  about  Rockbuster’s ilm  inventory,  customers,  and  payments,  among  other  things.
+ the dataset contains  information  about  Rockbuster’s film  inventory,  customers,  and  payments,  among  other  things.
  
